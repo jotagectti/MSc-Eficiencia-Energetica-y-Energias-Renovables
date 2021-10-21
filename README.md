@@ -27,7 +27,8 @@ Track on the path for the structuralia degree program
 * Unidad 3 Sistemas de control y gestión 2
 * Unidad 4 La gestión energética y mercados
 ---
->STARTED(18%)
+>STARTED
+>![18%](https://progress-bar.dev/18)
 ### 4. INTEGRACIÓN DE LAS ENERGÍAS RENOVABLES EN EDIFICIOS
 * Unidad 1 Solar térmica
 * Unidad 2 Solar Fotovoltaica
@@ -40,7 +41,8 @@ Track on the path for the structuralia degree program
 * Unidad 2.-El gestor energético
 * Unidad 4.- Sistemas energéticos en la industria y soluciones de ahorro
 ---
->STARTED(13%)
+>STARTED
+>![13%](https://progress-bar.dev/13)
 ### 6.ENERGÍA SOLAR
 * Unidad 1. La energía solar
 * Unidad 2: La célula fotovoltaica
@@ -64,7 +66,8 @@ Track on the path for the structuralia degree program
 6.  Legislación aplicable
 7.   Análisis de rentabilidad de inversiones. Revisión de parámetros económicos
 ---
->STARTED(2%)
+>STARTED
+>![2%](https://progress-bar.dev/2)
 ### 9. OTRAS RENOVABLES
 1. Energía mini hidráulica
 2.  Energía geotérmica
