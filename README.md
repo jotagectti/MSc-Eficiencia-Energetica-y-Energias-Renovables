@@ -35,7 +35,8 @@ Track on the path for the structuralia degree program
 * Unidad 3 Energía Minieólica
 * Unidad 4 Energía de la Biomasa
 ---
->Pendiente
+>STARTED
+>![7%](https://progress-bar.dev/7)
 ### 5. LA EFICIENCIA ENERGÉTICA EN LA INDUSTRIA
 * Unidad 1.- Situación energética actual
 * Unidad 2.-El gestor energético
